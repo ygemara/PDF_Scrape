@@ -7,4 +7,5 @@ Added an extra line
 Added an extra line
 Adding another line
 Adding a third line
+Adding a fourth line
 >>>>>>> 0dab73c18baa437fdf3163532e4016f93f4574a3
